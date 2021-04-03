@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'AnthonyFlores';
+  titles = 'EL BANANERO';
+  public phone = '{+51997606606}';
+  public title = 'Hola necesito sus servicios funerarios porfavor';
+
 }
